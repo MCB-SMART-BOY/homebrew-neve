@@ -1,18 +1,18 @@
 class Neve < Formula
   desc "A pure functional language for system configuration and package management"
   homepage "https://github.com/MCB-SMART-BOY/Neve"
-  version "0.6.4"
+  version "0.7.0"
   license "MPL-2.0"
 
   on_macos do
     on_intel do
-      url "https://github.com/MCB-SMART-BOY/Neve/releases/download/v0.6.4/neve-x86_64-apple-darwin.tar.gz"
-      sha256 "3a773957f426ab47506c5623d58fb567b0b90b2012c81f77b3f79cc6631559dd"
+      url "https://github.com/MCB-SMART-BOY/Neve/releases/download/v0.7.0/neve-x86_64-apple-darwin.tar.gz"
+      sha256 "be568a0938df0331a0bc6ab41a0fa5c11290d1b9c3fa24e1df8fc3f0060daee9"
     end
 
     on_arm do
-      url "https://github.com/MCB-SMART-BOY/Neve/releases/download/v0.6.4/neve-aarch64-apple-darwin.tar.gz"
-      sha256 "76df9c262803a1f8c1ab846e69d23042878d96e636a10de189f884eb00673976"
+      url "https://github.com/MCB-SMART-BOY/Neve/releases/download/v0.7.0/neve-aarch64-apple-darwin.tar.gz"
+      sha256 "fd2708779876414039651dfe94a944013bca48b44639117615b07f588a8bfade"
     end
   end
 
