@@ -5,7 +5,7 @@
 [![Release](https://img.shields.io/github/v/release/MCB-SMART-BOY/neve?include_prereleases&color=blue)](https://github.com/MCB-SMART-BOY/neve/releases)
 [![License: MPL-2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://github.com/MCB-SMART-BOY/Neve/blob/master/LICENSE)
 
-*A pure functional language for system configuration and package management*
+*A standalone language for system configuration, reproducible builds, and structured shell automation*
 
 </div>
 
@@ -13,8 +13,8 @@
 
 ## About / 关于
 
-This is the official Homebrew tap for [Neve](https://github.com/MCB-SMART-BOY/Neve), a pure functional language designed for system configuration and package management.
-这是 [Neve](https://github.com/MCB-SMART-BOY/Neve) 的官方 Homebrew tap。Neve 是一门纯函数式语言，专为系统配置与包管理而设计。
+This is the official Homebrew tap for [Neve](https://github.com/MCB-SMART-BOY/Neve), a standalone language aimed at system configuration, reproducible builds, and structured shell automation.
+这是 [Neve](https://github.com/MCB-SMART-BOY/Neve) 的官方 Homebrew tap。Neve 是一门独立语言，目标是把系统配置、可复现构建与结构化 shell 自动化放进同一套工具链里。
 
 ## Supported Platforms / 支持平台
 
