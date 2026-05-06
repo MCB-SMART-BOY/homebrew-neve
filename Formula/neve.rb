@@ -7,7 +7,7 @@ class Neve < Formula
   on_macos do
     on_intel do
       url "https://github.com/MCB-SMART-BOY/Neve/releases/download/v3.3.1/neve-x86_64-apple-darwin.tar.gz"
-      sha256 "1a4a6649d3af79e11afb7f9ecdf37dd6788cc6620e8fae9a06ff232a80d74e4d"
+      sha256 "b9a18654b1533e8108b730ed53cda537c266fe5eaf9613308a3fbd817643954c"
     end
 
     on_arm do
